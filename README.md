@@ -1,1 +1,1 @@
-# 21011417_git_practices
+# Git and Github practices
